@@ -1,0 +1,50 @@
+{
+    "students": [
+        {
+            "student_id": "10",
+            "first_name": "stop",
+            "last_name": "dart run lib/main.dart",
+            "date_of_birth": "dart run lib/main.dart",
+            "gender": "dart run lib/main.dart",
+            "email": "dart run lib/main.dart",
+            "phone_number": "a",
+            "address": {
+                "street": "274788724",
+                "city": "3472342",
+                "state": "324234",
+                "zip_code": "324234",
+                "country": "234234234"
+            },
+            "enrollment": {
+                "program": "3242342",
+                "year": "234234",
+                "courses": [
+                    "3242342"
+                ]
+            }
+        },
+        {
+            "student_id": "1",
+            "first_name": "Nguyen",
+            "last_name": "Dung",
+            "date_of_birth": "2004-10-25",
+            "gender": "male",
+            "email": "dung@example.com",
+            "phone_number": "99999",
+            "address": {
+                "street": "Cau Giay",
+                "city": "Ha Noi",
+                "state": "Cau Giay",
+                "zip_code": "0200000",
+                "country": "VN"
+            },
+            "enrollment": {
+                "program": "Aptech",
+                "year": "2022",
+                "courses": [
+                    "aptech"
+                ]
+            }
+        }
+    ]
+}
